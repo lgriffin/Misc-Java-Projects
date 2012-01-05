@@ -1,0 +1,12 @@
+This is a repository for some of the Java based projects that I worked on 
+throughout my PhD. The work here is experimental and was an evolution of my
+work in the XMPP area.
+
+- The XMPP Client was one of my first working examples where I broke down
+the core components of an XMPP system and evolved an architecture
+and associated set of Interfaces. The Interface set was used on a number of projects
+both personal and professionally to build up a small working IM system external to a 
+GUI based client. The GUI client included is merely for testing purposes.
+
+Some Web Services code will be uploaded in the coming weeks.
+
